@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-lottie-files/static/css/main.69eda509.chunk.css",
+    "main.js": "/react-lottie-files/static/js/main.064b1196.chunk.js",
+    "main.js.map": "/react-lottie-files/static/js/main.064b1196.chunk.js.map",
+    "runtime-main.js": "/react-lottie-files/static/js/runtime-main.85647296.js",
+    "runtime-main.js.map": "/react-lottie-files/static/js/runtime-main.85647296.js.map",
+    "static/js/2.51df2731.chunk.js": "/react-lottie-files/static/js/2.51df2731.chunk.js",
+    "static/js/2.51df2731.chunk.js.map": "/react-lottie-files/static/js/2.51df2731.chunk.js.map",
+    "index.html": "/react-lottie-files/index.html",
+    "precache-manifest.1b12355e39fd9b4d9fd6806183f792b1.js": "/react-lottie-files/precache-manifest.1b12355e39fd9b4d9fd6806183f792b1.js",
+    "service-worker.js": "/react-lottie-files/service-worker.js",
+    "static/css/main.69eda509.chunk.css.map": "/react-lottie-files/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.51df2731.chunk.js.LICENSE.txt": "/react-lottie-files/static/js/2.51df2731.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85647296.js",
+    "static/js/2.51df2731.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.064b1196.chunk.js"
+  ]
+}
